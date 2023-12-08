@@ -5,7 +5,7 @@
 |[Project Description](#Project-Description)|
 |[Specific Requirements](#Specific-Requirements)|
 |[Project Intent](#Project-Intent)|
-|[Methods/Techniques](#Methods-/-Techniques)|
+|[Methods/Techniques]([#Methods-/-Techniques](https://github.com/Stefan-Kniejski/Project-4-Group-2/blob/main/README.md#methodstechniques))|
 
 
 
