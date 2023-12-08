@@ -5,7 +5,7 @@
 |[Project Description](#Project-Description)|
 |[Specific Requirements](#Specific-Requirements)|
 |[Project Intent](#Project-Intent)|
-|[Methods/Techniques]([#Methods-and-Techniques))|
+|[Methods and Techniques](#Methods-and-Techniques)|
 
 
 
