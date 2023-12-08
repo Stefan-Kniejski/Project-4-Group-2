@@ -1,6 +1,18 @@
 # Project-4-Group-2
 
-## **Background**
+|Table of Contents|
+|:---:|
+|[Project Description](#Project-Description)|
+|[Specific Requirements](#Specific-Requirements)|
+|[Members](#Members)|
+|[Project Intent](#Project-Intent)|
+|[Methods/Techniques](#Methods-/-Techniques)|
+
+
+
+
+
+## **Project Description**
 
 Work as a group to solve, analyze, & visualize a problem using machine learning (ML) with the other technologies we learned in data bootcamp.
 
