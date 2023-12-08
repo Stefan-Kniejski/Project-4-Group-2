@@ -5,7 +5,7 @@
 |[Project Description](#Project-Description)|
 |[Specific Requirements](#Specific-Requirements)|
 |[Project Intent](#Project-Intent)|
-|[Methods/Techniques]([#methodstechniques))|
+|[Methods/Techniques]([#Methods-and-Techniques))|
 
 
 
@@ -46,7 +46,7 @@ Benchmark (visualization ideas):
   ![image](https://github.com/Stefan-Kniejski/Project-4-Group-2/assets/131806290/73408586-516a-4710-8a9c-150af55eec5c)
   ![image](https://github.com/Stefan-Kniejski/Project-4-Group-2/assets/131806290/3d8b269c-373a-4a8e-9356-4e8543167bc6)
 
-## **Methods/Techniques:**
+## **Methods and Techniques:**
 1. Data analysis
    * SKlearn Testing
    * SKlearn Creating documentation
