@@ -4,7 +4,7 @@
 |:---:|
 |[Project Description](#Project-Description)|
 |[Specific Requirements](#Specific-Requirements)|
-|[Members](#Members)|
+|[Members](https://github.com/Stefan-Kniejski/Project-4-Group-2#:~:text=Tableau-,Members%3A)|
 |[Project Intent](#Project-Intent)|
 |[Methods/Techniques](#Methods-/-Techniques)|
 
